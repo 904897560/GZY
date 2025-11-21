@@ -48,4 +48,3 @@ main() {
   log "Hostname updated successfully."
 }
 main "$@"
-
