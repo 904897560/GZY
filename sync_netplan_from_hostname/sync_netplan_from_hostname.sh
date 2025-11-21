@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 set -euo pipefail
 # Download and apply a netplan configuration whose location is derived from
